@@ -1,7 +1,4 @@
-
 # Daichi
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Desarrollador+Junior;React+%2B+TypeScript;Node.js+%2B+Express;Java+%7C+MySQL+%7C+Tailwind;Siempre+aprendiendo+y+mejorando" alt="Typing SVG" />
 </p>
