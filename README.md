@@ -1,9 +1,6 @@
 
 # Daichi
 
-<p align="center">
-  <b>Desarrollador Junior enfocado en construir soluciones web con bases solidas, codigo limpio y aprendizaje constante.</b>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Desarrollador+Junior;React+%2B+TypeScript;Node.js+%2B+Express;Java+%7C+MySQL+%7C+Tailwind;Siempre+aprendiendo+y+mejorando" alt="Typing SVG" />
@@ -52,33 +49,21 @@ Busco seguir creciendo como desarrollador en entornos donde pueda:
 
 Aqui puedes poner los proyectos que mas te representen:
 
-### 1. Nombre del proyecto
+### 1. Deadlock
 
-Breve descripcion del problema que resuelve, que tecnologia usaste y que aporte hiciste tu.
+Una wikipedia pequeña sobre personajes de Deadlock .
 
-**Stack:** React, TypeScript, Tailwind  
-**Repo:** `pon-aqui-el-link`
+**Stack:** React, TypeScript, Tailwind ,express 
+**Repo:** https://github.com/E1pinas/deadlock
 
-### 2. Nombre del proyecto
+### 2. Chiikawa
 
-Breve descripcion del objetivo principal y del valor que aporta el proyecto.
+Un crud de un sistema de ventas sencilla 
 
-**Stack:** Node.js, Express, MySQL  
-**Repo:** `pon-aqui-el-link`
+**Stack:** React, TypeScript, Tailwind ,express 
+**Repo:** https://github.com/E1pinas/chikawa
 
-### 3. Nombre del proyecto
 
-Describe en una o dos lineas que aprendiste o que hace especial a este proyecto.
-
-**Stack:** Java / otra tecnologia  
-**Repo:** `pon-aqui-el-link`
-
-## Un perfil rapido sobre mi
-
-- Junior con enfoque en seguir mejorando cada proyecto
-- Interesado en desarrollo web frontend y backend
-- En proceso constante de aprendizaje y construccion de portafolio
-- Motivado por oportunidades donde pueda crecer y aportar valor
 
 ## GitHub Stats
 
@@ -95,8 +80,7 @@ Describe en una o dos lineas que aprendiste o que hace especial a este proyecto.
 
 - Correo: `wadeider7x7gmail.com`
 - GitHub: `https://github.com/E1Pinas`
-- LinkedIn: `pon-aqui-tu-link-si-quieres`
-- Portafolio: `pon-aqui-tu-link-si-tienes`
+
 
 ---
 
